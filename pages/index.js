@@ -385,7 +385,7 @@ export default function Home() {
               <motion.div whileHover={{scale:1.1}} whileTap={{scale:0.9}}>
                 <div className="border-l-gray-600 text-center shadow-sm p-5 rounded-xl m-10 w-56 h-45 dark:bg-white">
                   <Image src={img8} alt="Canva" width={100} height={100} className="inline"/>
-                  <h2 className="text-2xl font-bold">Whsaaa</h2>
+                  <h2 className="text-2xl font-bold">Canva</h2>
                 </div>
               </motion.div>
             </div>
